@@ -8,9 +8,9 @@ Router.map(function () {
   });
 
   this.route('coaching', {
-    path: '/secret-mentor'
+    path: '/mentoring'
   });
-  
+
   this.route('meteordevshop1', {
   	path: '/meteordevshop1',
   	action: function(){
